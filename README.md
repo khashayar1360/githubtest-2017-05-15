@@ -5,8 +5,8 @@
 
 ### third level task
 1. FIRST ITEM 
-2. second item 
-2. third item 
+2. SECOND ITEM 
+2. THIRD ITEM 
 
 *italics*
 

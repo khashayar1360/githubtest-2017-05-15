@@ -1,11 +1,14 @@
 # githubtest-2017-05-15
 
 ## second level title 
-1. first item 
-2. second item 
-2. third item 
+
+
+### third level task
+1. FIRST ITEM 
+2. SECOND ITEM 
+2. THIRD ITEM 
 
 *italics*
 
 **bold** 
-test
+
